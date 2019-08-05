@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>自动化测试报告,测试结果如下：</title>
+    <meta name="generator" content="HTMLTestRunner 0.8.2"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    
+<style type="text/css" media="screen">
+body        { font-family: verdana, arial, helvetica, sans-serif; font-size: 80%; }
+table       { font-size: 100%; }
+pre         { }
+
+/* -- heading ---------------------------------------------------------------------- */
+h1 {
+	font-size: 16pt;
+	color: gray;
+}
+.heading {
+    margin-top: 0ex;
+    margin-bottom: 1ex;
+}
+
+.heading .attribute {
+    margin-top: 1ex;
+    margin-bottom: 0;
+}
+
+.heading .description {
+    margin-top: 4ex;
+    margin-bottom: 6ex;
+}
+
+/* -- css div popup ------------------------------------------------------------------------ */
+a.popup_link {
+}
+
+a.popup_link:hover {
+    color: red;
+}
+
+.popup_window {
+    display: none;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    /*border: solid #627173 1px; */
+    padding: 10px;
+    background-color: #E6E6D6;
+    font-family: "Lucida Console", "Courier New", Courier, monospace;
+    text-align: left;
+    font-size: 8pt;
+    width: 500px;
+}
+
+}
+/* -- report ------------------------------------------------------------------------ */
+#show_detail_line {
+    margin-top: 3ex;
+    margin-bottom: 1ex;
+}
+#result_table {
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid #777;
+}
+#header_row {
+    font-weight: bold;
+    color: white;
+    background-color: #777;
+}
+#result_table td {
+    border: 1px solid #777;
+    padding: 2px;
+}
+#total_row  { font-weight: bold; }
+.passClass  { background-color: #6c6; }
+.failClass  { background-color: #c60; }
+.errorClass { background-color: #c00; }
+.passCase   { color: #6c6; }
+.failCase   { color: #c60; font-weight: bold; }
+.errorCase  { color: #c00; font-weight: bold; }
+.hiddenRow  { display: none; }
+.testcase   { margin-left: 2em; }
+
+
+/* -- ending ---------------------------------------------------------------------- */
+#ending {
+}
+
+</style>
+
+</head>
+<body>
+<script language="javascript" type="text/javascript"><!--
+output_list = Array();
+
+/* level - 0:Summary; 1:Failed; 2:All */
+function showCase(level) {
+    trs = document.getElementsByTagName("tr");
+    for (var i = 0; i < trs.length; i++) {
+        tr = trs[i];
+        id = tr.id;
+        if (id.substr(0,2) == 'ft') {
+            if (level < 1) {
+                tr.className = 'hiddenRow';
+            }
+            else {
+                tr.className = '';
+            }
+        }
+        if (id.substr(0,2) == 'pt') {
+            if (level > 1) {
+                tr.className = '';
+            }
+            else {
+                tr.className = 'hiddenRow';
+            }
+        }
+    }
+}
+
+
+function showClassDetail(cid, count) {
+    var id_list = Array(count);
+    var toHide = 1;
+    for (var i = 0; i < count; i++) {
+        tid0 = 't' + cid.substr(1) + '.' + (i+1);
+        tid = 'f' + tid0;
+        tr = document.getElementById(tid);
+        if (!tr) {
+            tid = 'p' + tid0;
+            tr = document.getElementById(tid);
+        }
+        id_list[i] = tid;
+        if (tr.className) {
+            toHide = 0;
+        }
+    }
+    for (var i = 0; i < count; i++) {
+        tid = id_list[i];
+        if (toHide) {
+            document.getElementById('div_'+tid).style.display = 'none'
+            document.getElementById(tid).className = 'hiddenRow';
+        }
+        else {
+            document.getElementById(tid).className = '';
+        }
+    }
+}
+
+
+function showTestDetail(div_id){
+    var details_div = document.getElementById(div_id)
+    var displayState = details_div.style.display
+    // alert(displayState)
+    if (displayState != 'block' ) {
+        displayState = 'block'
+        details_div.style.display = 'block'
+    }
+    else {
+        details_div.style.display = 'none'
+    }
+}
+
+
+function html_escape(s) {
+    s = s.replace(/&/g,'&amp;');
+    s = s.replace(/</g,'&lt;');
+    s = s.replace(/>/g,'&gt;');
+    return s;
+}
+
+/* obsoleted by detail in <div>
+function showOutput(id, name) {
+    var w = window.open("", //url
+                    name,
+                    "resizable,scrollbars,status,width=800,height=450");
+    d = w.document;
+    d.write("<pre>");
+    d.write(html_escape(output_list[id]));
+    d.write("\n");
+    d.write("<a href='javascript:window.close()'>close</a>\n");
+    d.write("</pre>\n");
+    d.close();
+}
+*/
+--></script>
+
+<div class='heading'>
+<h1>自动化测试报告,测试结果如下：</h1>
+<p class='attribute'><strong>Start Time:</strong> 2017-07-30 22:03:13</p>
+<p class='attribute'><strong>Duration:</strong> 0:00:03.732000</p>
+<p class='attribute'><strong>Status:</strong> Pass 3 Failure 3</p>
+
+<p class='description'>用例执行情况：</p>
+</div>
+
+
+
+<p id='show_detail_line'>Show
+<a href='javascript:showCase(0)'>Summary</a>
+<a href='javascript:showCase(1)'>Failed</a>
+<a href='javascript:showCase(2)'>All</a>
+</p>
+<table id='result_table'>
+<colgroup>
+<col align='left' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+<col align='right' />
+</colgroup>
+<tr id='header_row'>
+    <td>Test Group/Test case</td>
+    <td>Count</td>
+    <td>Pass</td>
+    <td>Fail</td>
+    <td>Error</td>
+    <td>View</td>
+</tr>
+
+<tr class='failClass'>
+    <td>test_01.Blog_login</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c1',2)">Detail</a></td>
+</tr>
+
+<tr id='ft1.1' class='none'>
+    <td class='failCase'><div class='testcase'>test_login1: 测试登录：正确账号，正确密码</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
+        fail</a>
+
+    <div id='div_ft1.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+ft1.1: [2017-07-30 22:03:13,720] - logger.py] - INFO: ------登录成功用例：start!---------
+[2017-07-30 22:03:13,750] - logger.py] - INFO: 输入正确账号：DvF1fv20vIRap1e29Bb3dv0yRvLZSODu5qjXfo5XSBTPLJFg5zz69Rv+VuwhHF5O+4B8fR+MMahNjkd65YHnAUv70Mn6bqR1lfI7yXOznoAgSMN2MuUoCjkDqAXwwcQBMy7l4MjgDvaghOLshNuRzALdgy04117o3lI5fOYo9WE=
+[2017-07-30 22:03:13,750] - logger.py] - INFO: 输入正确密码：EaXSR4sgyDCLxCcJLtVgZbkyJd8EAxLBZYQhQ/vjedSeik/zAJZWtOjSb2bVyFyPmaNIhecfeuqXVhPaVxIpIv4ynz6k29KOX4CUZcbuTzkKPnZQ/cDH9TzaOsK/rbWCs2ulLU2zZUgLgWZ4cmeKMJgP3oIvYQ3JNdATn/zU1nU=
+[2017-07-30 22:03:14,789] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2017-07-30 22:03:14,865] - logger.py] - INFO: 获取测试结果：{u'success': False}
+Traceback (most recent call last):
+  File "D:\test\yoyo_jiekou\case\test_01.py", line 41, in test_login1
+    self.assertEqual(result["success"], True)
+AssertionError: False != True
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt1.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_login2: 测试登录：正确账号，错误密码</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.2')" >
+        pass</a>
+
+    <div id='div_pt1.2' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.2').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.2: [2017-07-30 22:03:14,937] - logger.py] - INFO: ------登录失败用例：start!---------
+[2017-07-30 22:03:14,938] - logger.py] - INFO: 输入正确账号：DvF1fv20vIRap1e29Bb3dv0yRvLZSODu5qjXfo5XSBTPLJFg5zz69Rv+VuwhHF5O+4B8fR+MMahNjkd65YHnAUv70Mn6bqR1lfI7yXOznoAgSMN2MuUoCjkDqAXwwcQBMy7l4MjgDvaghOLshNuRzALdgy04117o3lI5fOYo9WE=
+[2017-07-30 22:03:14,940] - logger.py] - INFO: 输入错误密码：DvF1fv20vIRap1e29Bb3dv0yRvLZSODu5qjXfo5XSBTPLJFg5zz69Rv+VuwhHF5O+4B8fR+MMahNjkd65YHnAUv70Mn6bqR1lfI7yXOznoAgSMN2MuUoCjkDqAXwwcQBMy7l4MjgDvaghOLshNuRzALdgy04117o3lI5fOYo9WE=
+[2017-07-30 22:03:15,111] - logger.py] - INFO: 博客园登录结果：{"success":false}
+[2017-07-30 22:03:15,111] - logger.py] - INFO: 获取测试结果：{u'success': False}
+[2017-07-30 22:03:15,111] - logger.py] - INFO: ------pass!---------
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='failClass'>
+    <td>test_02.Test_Kuaidi: 测试快递查询接口</td>
+    <td>2</td>
+    <td>0</td>
+    <td>2</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c2',2)">Detail</a></td>
+</tr>
+
+<tr id='ft2.1' class='none'>
+    <td class='failCase'><div class='testcase'>test_tiantian: 测试天天快递，单号：560697415000</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft2.1')" >
+        fail</a>
+
+    <div id='div_ft2.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft2.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+ft2.1: [2017-07-30 22:03:15,112] - logger.py] - INFO: ----------start!-------
+[2017-07-30 22:03:15,114] - logger.py] - INFO: 测试单号：560697415000  快递名称：天天快递
+[2017-07-30 22:03:15,114] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-560697415000-tiantian.html
+[2017-07-30 22:03:15,484] - logger.py] - INFO: 获取请求结果：{u'status': 8, u'exceed': u'', u'ico': u'/data/upload/201407/sf_logo.gif', u'success': True, u'url': u'http://www.sf-express.com', u'company': u'\u987a\u4e30\u901f\u8fd0', u'timeused': u'--', u'rank': u'4.0', u'phone': u'95338', u'reason': u'', u'time': u'', u'data': [{u'context': u'\u67e5\u5feb\u9012\u5bc4\u5feb\u9012\u8bf7\u4e0a\u5feb\u9012\u7f51&lt;a href="http://www.kuaidi.com&gt;www.kuaidi.com&lt;/a&gt;', u'time': u'2016-08-03 09:50:56'}], u'nu': u'560697415000', u'companytype': u'shunfeng'}
+[2017-07-30 22:03:15,486] - logger.py] - INFO: 获取公司名称：顺丰速运
+[2017-07-30 22:03:15,487] - logger.py] - INFO: 获取data内容：[{u'context': u'\u67e5\u5feb\u9012\u5bc4\u5feb\u9012\u8bf7\u4e0a\u5feb\u9012\u7f51&lt;a href="http://www.kuaidi.com&gt;www.kuaidi.com&lt;/a&gt;', u'time': u'2016-08-03 09:50:56'}]
+[2017-07-30 22:03:15,489] - logger.py] - INFO: 获取已签收状态：查快递寄快递请上快递网&lt;a href="http://www.kuaidi.com&gt;www.kuaidi.com&lt;/a&gt;
+Traceback (most recent call last):
+  File "D:\test\yoyo_jiekou\case\test_02.py", line 55, in test_tiantian
+    self.chaxun_kuaidi(danhao, kd, kd_name)
+  File "D:\test\yoyo_jiekou\case\test_02.py", line 34, in chaxun_kuaidi
+    self.assertEqual(kd_name, result['company'])
+AssertionError: u'\u5929\u5929\u5feb\u9012' != u'\u987a\u4e30\u901f\u8fd0'
+- 天天快递
++ 顺丰速运
+
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='ft2.2' class='none'>
+    <td class='failCase'><div class='testcase'>test_yunda: 测试韵达快递，单号：1202247993797</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft2.2')" >
+        fail</a>
+
+    <div id='div_ft2.2' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft2.2').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+ft2.2: [2017-07-30 22:03:15,598] - logger.py] - INFO: ----------start!-------
+[2017-07-30 22:03:15,599] - logger.py] - INFO: 测试单号：1202247993797  快递名称：韵达快递
+[2017-07-30 22:03:15,625] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-1202247993797-yunda.html
+[2017-07-30 22:03:15,721] - logger.py] - INFO: 获取请求结果：{u'status': 8, u'exceed': u'', u'ico': u'/data/upload/201407/sf_logo.gif', u'success': True, u'url': u'http://www.sf-express.com', u'company': u'\u987a\u4e30\u901f\u8fd0', u'timeused': u'--', u'rank': u'4.0', u'phone': u'95338', u'reason': u'', u'time': u'', u'data': [{u'context': u'\u67e5\u5feb\u9012\u5bc4\u5feb\u9012\u8bf7\u4e0a\u5feb\u9012\u7f51&lt;a href="http://www.kuaidi.com&gt;www.kuaidi.com&lt;/a&gt;', u'time': u'2016-08-03 09:50:56'}], u'nu': u'1202247993797', u'companytype': u'shunfeng'}
+[2017-07-30 22:03:15,723] - logger.py] - INFO: 获取公司名称：顺丰速运
+[2017-07-30 22:03:15,723] - logger.py] - INFO: 获取data内容：[{u'context': u'\u67e5\u5feb\u9012\u5bc4\u5feb\u9012\u8bf7\u4e0a\u5feb\u9012\u7f51&lt;a href="http://www.kuaidi.com&gt;www.kuaidi.com&lt;/a&gt;', u'time': u'2016-08-03 09:50:56'}]
+[2017-07-30 22:03:15,723] - logger.py] - INFO: 获取已签收状态：查快递寄快递请上快递网&lt;a href="http://www.kuaidi.com&gt;www.kuaidi.com&lt;/a&gt;
+Traceback (most recent call last):
+  File "D:\test\yoyo_jiekou\case\test_02.py", line 45, in test_yunda
+    self.chaxun_kuaidi(danhao, kd, kd_name)
+  File "D:\test\yoyo_jiekou\case\test_02.py", line 34, in chaxun_kuaidi
+    self.assertEqual(kd_name, result['company'])
+AssertionError: u'\u97f5\u8fbe\u5feb\u9012' != u'\u987a\u4e30\u901f\u8fd0'
+- 韵达快递
++ 顺丰速运
+
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='passClass'>
+    <td>test_03.Test</td>
+    <td>2</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c3',2)">Detail</a></td>
+</tr>
+
+<tr id='pt3.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_del: 测试保存草稿箱-删除用例</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt3.1')" >
+        pass</a>
+
+    <div id='div_pt3.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt3.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt3.1: [2017-07-30 22:03:15,726] - logger.py] - INFO: ------start!--------
+[2017-07-30 22:03:15,726] - logger.py] - INFO: 第一步：登录
+[2017-07-30 22:03:16,249] - logger.py] - INFO: 调用登录方法，获取结果：{"success":true}
+[2017-07-30 22:03:16,250] - logger.py] - INFO: 第二步：保存
+[2017-07-30 22:03:16,742] - logger.py] - INFO: 调用保存草稿箱方法，获取结果：&lt;Response [200]&gt;
+[2017-07-30 22:03:16,743] - logger.py] - INFO: 正则提取postid，获取结果：[u'7260676']
+[2017-07-30 22:03:16,743] - logger.py] - INFO: 第三步：删除
+[2017-07-30 22:03:17,171] - logger.py] - INFO: 删除草稿箱，获取结果：True
+[2017-07-30 22:03:17,174] - logger.py] - INFO: ------end!--------
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt3.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_login: 测试登录用例</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt3.2')" >
+        pass</a>
+
+    <div id='div_pt3.2' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt3.2').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt3.2: [2017-07-30 22:03:17,176] - logger.py] - INFO: ------start!--------
+[2017-07-30 22:03:17,446] - logger.py] - INFO: 调用登录方法，获取结果：{"success":true}
+[2017-07-30 22:03:17,447] - logger.py] - INFO: 调用登录结果：{u'success': True}
+[2017-07-30 22:03:17,448] - logger.py] - INFO: 获取是否登录成功：True
+[2017-07-30 22:03:17,451] - logger.py] - INFO: ------end!--------
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='total_row'>
+    <td>Total</td>
+    <td>6</td>
+    <td>3</td>
+    <td>3</td>
+    <td>0</td>
+    <td>&nbsp;</td>
+</tr>
+</table>
+
+<div id='ending'>&nbsp;</div>
+
+</body>
+</html>
