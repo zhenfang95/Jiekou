@@ -1,0 +1,6 @@
+2020-04-21 10:09:38,174 - TestLog - INFO - ---登录系统---，Method：post
+2020-04-21 10:09:38,174 - TestLog - INFO - result：{'code': 0, 'data': [], 'msg': 'success'}
+2020-04-21 10:09:39,384 - TestLog - INFO - ---选择店铺---，Method：get
+2020-04-21 10:09:39,385 - TestLog - INFO - result：{'code': 0, 'msg': '登录成功', '0': {'data': {'shop_id': 'apprnDA0ZDw4581', 'wx_app_id': 'wxdd198a901fa24220', 'wx_app_name': '准线网测试', 'wx_app_avatar': None, 'qr_url': '', 'use_collection': 0, 'version_type': 4, 'expire_time': '2026-11-07 22:44:32', 'pre_version': 0, 'merchant_id': 'mchngG9rZe4cCV2', 'shop_name': '准现网😈', 'shop_logo': 'http://wechatapppro-1252524126.file.myqcloud.com/apprnDA0ZDw4581/image/cmVzb3VyY2Utc2hvcFNldHRpbmctMzk0NDc4NDY.jpg', 'main_type': None, 'use_https': 0, 'footer_logo': '', 'profile': None, 'wx_app_type': 1, 'create_time': '2016-10-24 16:06:41', 'app_id': 'apprnDA0ZDw4581'}}}
+2020-04-21 10:09:59,484 - TestLog - INFO - ---新建秒杀活动---，Method：post
+2020-04-21 10:09:59,486 - TestLog - INFO - result：{'code': 8, 'msg': '商品已参加其他活动', 'data': 'i_5e8c3270424fc_myVNHBiO--the goods have activity'}

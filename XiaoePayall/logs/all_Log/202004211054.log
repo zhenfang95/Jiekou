@@ -1,0 +1,8 @@
+2020-04-21 10:54:06,369 - TestLog - INFO - ---创建训练营---，Method：post
+2020-04-21 10:54:06,369 - TestLog - INFO - result：{'code': 0, 'msg': 'success', 'data': {'id': 'camp_l1WkGz5vliRmCi8l', 'title': 'Pay_训练营X075GB'}}
+2020-04-21 10:54:10,821 - TestLog - INFO - ---新建免费营期---，Method：post
+2020-04-21 10:54:10,822 - TestLog - INFO - result：{'code': 0, 'msg': 'success', 'data': {'term_id': 'term_5e9e60509caf8_I04M0X', 's': 411}}
+2020-04-21 10:54:14,798 - TestLog - INFO - ---新建付费营期---，Method：post
+2020-04-21 10:54:14,799 - TestLog - INFO - result：{'code': 0, 'msg': 'success', 'data': {'term_id': 'term_5e9e605484f64_NWvx3Z', 's': 436}}
+2020-04-21 10:54:26,527 - TestLog - INFO - ---获取训练营营期列表---，Method：get
+2020-04-21 10:54:26,528 - TestLog - INFO - result：{'code': 0, 'msg': 'success', 'data': {'total': 0, 'terms': [], 'term_total': 0}}

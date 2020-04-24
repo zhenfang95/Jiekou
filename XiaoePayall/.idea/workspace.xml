@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bc325e1-6763-4d93-af45-1b4d16256b4d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Suc2twcfsIDi5HYMuHb5oCWomi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\testdata\gitlab\autoTest_payall\XiaoePayall\common" />
+      <recent name="D:\testdata\gitlab\autoTest_payall\XiaoePayall\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_004_CoursesBuy.TestCoursesBuy.test_006">
+    <configuration name="Unittests for test_003_MarketBuy.TestMarketBuy.test_026" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="XiaoePayall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_003_MarketBuy.TestMarketBuy.test_026&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_003_MarketBuy.TestMarketBuy.test_027" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="XiaoePayall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_003_MarketBuy.TestMarketBuy.test_027&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_003_MarketBuy.TestMarketBuy.test_028" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="XiaoePayall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_003_MarketBuy.TestMarketBuy.test_028&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_005" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="XiaoePayall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_004_CoursesBuy.TestCoursesBuy.test_005&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_006" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="XiaoePayall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_004_CoursesBuy.TestCoursesBuy.test_006&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for test_003_MarketBuy.TestMarketBuy.test_026" />
+      <item itemvalue="Python tests.Unittests for test_003_MarketBuy.TestMarketBuy.test_027" />
+      <item itemvalue="Python tests.Unittests for test_003_MarketBuy.TestMarketBuy.test_028" />
+      <item itemvalue="Python tests.Unittests for test_004_CoursesBuy.TestCoursesBuy.test_005" />
+      <item itemvalue="Python tests.Unittests for test_004_CoursesBuy.TestCoursesBuy.test_006" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_004_CoursesBuy.TestCoursesBuy.test_006" />
+        <item itemvalue="Python tests.Unittests for test_004_CoursesBuy.TestCoursesBuy.test_005" />
+        <item itemvalue="Python tests.Unittests for test_003_MarketBuy.TestMarketBuy.test_028" />
+        <item itemvalue="Python tests.Unittests for test_003_MarketBuy.TestMarketBuy.test_027" />
+        <item itemvalue="Python tests.Unittests for test_003_MarketBuy.TestMarketBuy.test_026" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bc325e1-6763-4d93-af45-1b4d16256b4d" name="Default Changelist" comment="" />
+      <created>1572416717976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572416717976</updated>
+      <workItem from="1572416719135" duration="15364000" />
+      <workItem from="1572486153518" duration="9206000" />
+      <workItem from="1572589318230" duration="600000" />
+      <workItem from="1572596634802" duration="3371000" />
+      <workItem from="1572935122369" duration="44131000" />
+      <workItem from="1573635124426" duration="17000" />
+      <workItem from="1573715856049" duration="27000" />
+      <workItem from="1574130479647" duration="10125000" />
+      <workItem from="1574233071100" duration="5065000" />
+      <workItem from="1574647580892" duration="6083000" />
+      <workItem from="1574663554629" duration="3297000" />
+      <workItem from="1574668623468" duration="6550000" />
+      <workItem from="1574683260379" duration="77000" />
+      <workItem from="1574684140497" duration="1298000" />
+      <workItem from="1574822242744" duration="22000" />
+      <workItem from="1574825023638" duration="595000" />
+      <workItem from="1574847739663" duration="10000" />
+      <workItem from="1574908087520" duration="2355000" />
+      <workItem from="1574932332940" duration="8000" />
+      <workItem from="1575081192305" duration="6400000" />
+      <workItem from="1575251976146" duration="21000" />
+      <workItem from="1575512563889" duration="17462000" />
+      <workItem from="1575855585167" duration="68585000" />
+      <workItem from="1576115131642" duration="1990000" />
+      <workItem from="1576202114745" duration="12959000" />
+      <workItem from="1576230508999" duration="175000" />
+      <workItem from="1576234410144" duration="11000" />
+      <workItem from="1576462783148" duration="15550000" />
+      <workItem from="1576548870191" duration="23876000" />
+      <workItem from="1576635297753" duration="17062000" />
+      <workItem from="1576720519023" duration="22559000" />
+      <workItem from="1576805577202" duration="19709000" />
+      <workItem from="1577082131739" duration="12154000" />
+      <workItem from="1577152111609" duration="13106000" />
+      <workItem from="1577238098481" duration="15970000" />
+      <workItem from="1577327614593" duration="11699000" />
+      <workItem from="1577410845227" duration="16085000" />
+      <workItem from="1577670549556" duration="21198000" />
+      <workItem from="1577706088383" duration="4992000" />
+      <workItem from="1577756589740" duration="9641000" />
+      <workItem from="1577933689184" duration="2787000" />
+      <workItem from="1577946601076" duration="1056000" />
+      <workItem from="1577967539335" duration="7000" />
+      <workItem from="1578017560664" duration="344000" />
+      <workItem from="1578275801638" duration="84000" />
+      <workItem from="1578471133057" duration="13000" />
+      <workItem from="1578896199219" duration="287000" />
+      <workItem from="1579053594426" duration="981000" />
+      <workItem from="1581666204877" duration="13436000" />
+      <workItem from="1582005136776" duration="126000" />
+      <workItem from="1583312034499" duration="4755000" />
+      <workItem from="1583319113102" duration="277000" />
+      <workItem from="1583319402629" duration="357000" />
+      <workItem from="1583321014584" duration="170000" />
+      <workItem from="1583421610178" duration="221000" />
+      <workItem from="1583422727483" duration="4819000" />
+      <workItem from="1583993614131" duration="1256000" />
+      <workItem from="1584002876839" duration="3235000" />
+      <workItem from="1584323868629" duration="25000" />
+      <workItem from="1584340186327" duration="2464000" />
+      <workItem from="1585106894499" duration="72000" />
+      <workItem from="1585116519576" duration="2704000" />
+      <workItem from="1585532607092" duration="617000" />
+      <workItem from="1585645563012" duration="597000" />
+      <workItem from="1585722874799" duration="1216000" />
+      <workItem from="1585878197042" duration="48000" />
+      <workItem from="1585878504738" duration="714000" />
+      <workItem from="1585894417817" duration="113000" />
+      <workItem from="1585905383406" duration="3525000" />
+      <workItem from="1586244182655" duration="3991000" />
+      <workItem from="1586249289477" duration="314000" />
+      <workItem from="1586937805553" duration="2296000" />
+      <workItem from="1587030308051" duration="297000" />
+      <workItem from="1587030975501" duration="69000" />
+      <workItem from="1587106384908" duration="823000" />
+      <workItem from="1587112026902" duration="1587000" />
+      <workItem from="1587347429263" duration="2311000" />
+      <workItem from="1587349755633" duration="323000" />
+      <workItem from="1587434873211" duration="4087000" />
+      <workItem from="1587560402614" duration="477000" />
+      <workItem from="1587626153681" duration="1757000" />
+      <workItem from="1587645891361" duration="395000" />
+    </task>
+    <task id="LOCAL-00028" summary="添加日志">
+      <created>1577707917258</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1577707917258</updated>
+    </task>
+    <task id="LOCAL-00029" summary="jenkings运行路径调式">
+      <created>1577709080552</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1577709080552</updated>
+    </task>
+    <task id="LOCAL-00030" summary="jenkings运行路径调式">
+      <created>1577709134473</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1577709134473</updated>
+    </task>
+    <task id="LOCAL-00031" summary="jenkings运行路径调式">
+      <created>1577709159918</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1577709159918</updated>
+    </task>
+    <task id="LOCAL-00032" summary="jenkings运行路径调式">
+      <created>1577709607912</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1577709607912</updated>
+    </task>
+    <task id="LOCAL-00033" summary="jenkings运行路径调式">
+      <created>1577709621504</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1577709621504</updated>
+    </task>
+    <task id="LOCAL-00034" summary="jenkings运行路径调式">
+      <created>1577709792903</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1577709792903</updated>
+    </task>
+    <task id="LOCAL-00035" summary="jenkings运行路径调式">
+      <created>1577709883728</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1577709883728</updated>
+    </task>
+    <task id="LOCAL-00036" summary="jenkings运行路径调式">
+      <created>1577709970309</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1577709970309</updated>
+    </task>
+    <task id="LOCAL-00037" summary="jenkings运行路径调式">
+      <created>1577710483872</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1577710483872</updated>
+    </task>
+    <task id="LOCAL-00038" summary="jenkings运行路径调式">
+      <created>1577759110352</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1577759110352</updated>
+    </task>
+    <task id="LOCAL-00039" summary="jenkings运行路径调式">
+      <created>1577759438294</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1577759438294</updated>
+    </task>
+    <task id="LOCAL-00040" summary="jenkings运行路径调式">
+      <created>1577759771272</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1577759771272</updated>
+    </task>
+    <task id="LOCAL-00041" summary="jenkings运行路径调式">
+      <created>1577760085601</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1577760085601</updated>
+    </task>
+    <task id="LOCAL-00042" summary="jenkings运行路径调式">
+      <created>1577760277112</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1577760277112</updated>
+    </task>
+    <task id="LOCAL-00043" summary="jenkings运行路径调式">
+      <created>1577761385595</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1577761385595</updated>
+    </task>
+    <task id="LOCAL-00044" summary="jenkings运行路径调式">
+      <created>1577761652580</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1577761652580</updated>
+    </task>
+    <task id="LOCAL-00045" summary="jenkings运行路径调式">
+      <created>1577761788416</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1577761788416</updated>
+    </task>
+    <task id="LOCAL-00046" summary="jenkings运行路径调式">
+      <created>1577762072971</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1577762072971</updated>
+    </task>
+    <task id="LOCAL-00047" summary="jenkings运行路径调式">
+      <created>1577762135849</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1577762135849</updated>
+    </task>
+    <task id="LOCAL-00048" summary="、、、">
+      <created>1577762247531</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1577762247531</updated>
+    </task>
+    <task id="LOCAL-00049" summary="、、、">
+      <created>1577762326540</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1577762326540</updated>
+    </task>
+    <task id="LOCAL-00050" summary="修改日志">
+      <created>1577762663911</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1577762663912</updated>
+    </task>
+    <task id="LOCAL-00051" summary=".....">
+      <created>1577763236576</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1577763236576</updated>
+    </task>
+    <task id="LOCAL-00052" summary="bug修改">
+      <created>1577764356170</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1577764356170</updated>
+    </task>
+    <task id="LOCAL-00053" summary="...">
+      <created>1577772813690</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1577772813690</updated>
+    </task>
+    <task id="LOCAL-00054" summary="...">
+      <created>1577935619441</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1577935619442</updated>
+    </task>
+    <task id="LOCAL-00055" summary="...">
+      <created>1577938003509</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1577938003509</updated>
+    </task>
+    <task id="LOCAL-00056" summary="...">
+      <created>1577947646342</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1577947646342</updated>
+    </task>
+    <task id="LOCAL-00057" summary="修改新建涨粉神器参数">
+      <created>1578275849562</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1578275849562</updated>
+    </task>
+    <task id="LOCAL-00058" summary="更新h5端token">
+      <created>1578896470829</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1578896470829</updated>
+    </task>
+    <task id="LOCAL-00059" summary="...">
+      <created>1581667587624</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1581667587624</updated>
+    </task>
+    <task id="LOCAL-00060" summary="...">
+      <created>1581667717977</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1581667717977</updated>
+    </task>
+    <task id="LOCAL-00061" summary="更新H5-to_token">
+      <created>1581755327196</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1581755327196</updated>
+    </task>
+    <task id="LOCAL-00062" summary="更新H5-to_token">
+      <created>1581755387297</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1581755387297</updated>
+    </task>
+    <task id="LOCAL-00063" summary="更新H5-to_token">
+      <created>1583315448985</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1583315448986</updated>
+    </task>
+    <task id="LOCAL-00064" summary="超级会员case加延迟">
+      <created>1583319435880</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1583319435881</updated>
+    </task>
+    <task id="LOCAL-00065" summary="更新H5token">
+      <created>1583321169175</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1583321169176</updated>
+    </task>
+    <task id="LOCAL-00066" summary="修改日志">
+      <created>1585116635961</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1585116635961</updated>
+    </task>
+    <task id="LOCAL-00067" summary="修改打印日志">
+      <created>1585120377622</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1585120377622</updated>
+    </task>
+    <task id="LOCAL-00068" summary="修改批价下单日志">
+      <created>1585646111040</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1585646111040</updated>
+    </task>
+    <task id="LOCAL-00069" summary="添加内灰环境">
+      <created>1586248075523</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1586248075524</updated>
+    </task>
+    <task id="LOCAL-00070" summary="修改to_token">
+      <created>1586249382413</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1586249382413</updated>
+    </task>
+    <task id="LOCAL-00071" summary="日常维护脚本">
+      <created>1587107187553</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1587107187553</updated>
+    </task>
+    <task id="LOCAL-00072" summary="日常脚本维护">
+      <created>1587350061733</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1587350061734</updated>
+    </task>
+    <task id="LOCAL-00073" summary="切换环境">
+      <created>1587435198074</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1587435198074</updated>
+    </task>
+    <task id="LOCAL-00074" summary="切换到内灰环境">
+      <created>1587626348015</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1587626348016</updated>
+    </task>
+    <task id="LOCAL-00075" summary="切换到内灰环境">
+      <created>1587627681923</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1587627681923</updated>
+    </task>
+    <task id="LOCAL-00076" summary="切换到准现网环境">
+      <created>1587646260450</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1587646260450</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="生成测试报告" />
+    <MESSAGE value="面授课测试用例" />
+    <MESSAGE value="助学工具测试用例" />
+    <MESSAGE value="编写测试用例" />
+    <MESSAGE value="添加日志" />
+    <MESSAGE value="jenkings运行路径调式" />
+    <MESSAGE value="、、、" />
+    <MESSAGE value="....." />
+    <MESSAGE value="bug修改" />
+    <MESSAGE value="修改新建涨粉神器参数" />
+    <MESSAGE value="更新h5端token" />
+    <MESSAGE value="..." />
+    <MESSAGE value="更新H5-to_token" />
+    <MESSAGE value="超级会员case加延迟" />
+    <MESSAGE value="更新H5token" />
+    <MESSAGE value="修改日志" />
+    <MESSAGE value="修改打印日志" />
+    <MESSAGE value="修改批价下单日志" />
+    <MESSAGE value="添加内灰环境" />
+    <MESSAGE value="修改to_token" />
+    <MESSAGE value="日常维护脚本" />
+    <MESSAGE value="日常脚本维护" />
+    <MESSAGE value="切换环境" />
+    <MESSAGE value="切换到内灰环境" />
+    <MESSAGE value="切换到准现网环境" />
+    <option name="LAST_COMMIT_MESSAGE" value="切换到准现网环境" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581667281533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581667281533" />
+    <state x="372" y="2" key="CommitChangelistDialog2" timestamp="1587560928258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587560928258" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1583319737449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583319737449" />
+    <state width="1493" height="297" key="GridCell.Tab.0.bottom" timestamp="1583476904321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583476904321" />
+    <state width="1493" height="297" key="GridCell.Tab.0.center" timestamp="1583476904321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583476904321" />
+    <state width="1493" height="297" key="GridCell.Tab.0.left" timestamp="1583476904321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583476904321" />
+    <state width="1493" height="297" key="GridCell.Tab.0.right" timestamp="1583476904321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583476904321" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1583475955340">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583475955340" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1583475955340">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583475955340" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1583475955340">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583475955340" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1583475955340">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583475955340" />
+    <state x="270" y="55" key="SettingsEditor" timestamp="1587560569328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587560569328" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1587560403711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587560403711" />
+    <state x="428" y="204" key="git4idea.merge.GitPullDialog" timestamp="1581667738401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="428" y="204" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1581667738401" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/page/xiaoe.py</url>
+          <line>183</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_007.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_007 Coverage Results" MODIFIED="1583475827522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_047.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_047 Coverage Results" MODIFIED="1587348287156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_105.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_105 Coverage Results" MODIFIED="1583476904321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_071.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_071 Coverage Results" MODIFIED="1583476859383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_024.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_024 Coverage Results" MODIFIED="1577331532322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_013.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_013 Coverage Results" MODIFIED="1577158274744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_093.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_093 Coverage Results" MODIFIED="1576739946022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_032.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_032 Coverage Results" MODIFIED="1576554800964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_025.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_025 Coverage Results" MODIFIED="1587439499200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_001_login_TestLogin_test_001.coverage" NAME="Unittests for test_001_login.TestLogin.test_001 Coverage Results" MODIFIED="1572597269610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_065.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_065 Coverage Results" MODIFIED="1576657222967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_006.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_006 Coverage Results" MODIFIED="1577257758620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_007_WXB_App_TestCoursesBuy_test_009.coverage" NAME="Unittests for test_007_WXB_App.TestCoursesBuy.test_009 Coverage Results" MODIFIED="1577672677498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_109.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_109 Coverage Results" MODIFIED="1576757709247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_050.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_050 Coverage Results" MODIFIED="1576652179337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_029.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_029 Coverage Results" MODIFIED="1587349983071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_096.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_096 Coverage Results" MODIFIED="1577176009602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_020.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_020 Coverage Results" MODIFIED="1587435164097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_022.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_022 Coverage Results" MODIFIED="1576489415357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_017.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_017 Coverage Results" MODIFIED="1583476642997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_043.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_043 Coverage Results" MODIFIED="1575529593497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_078.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_078 Coverage Results" MODIFIED="1579054020649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$readYaml.coverage" NAME="readYaml Coverage Results" MODIFIED="1586245320300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_002_ServerBuy_TestServerBuy_test_001.coverage" NAME="Unittests for test_002_ServerBuy.TestServerBuy.test_001 Coverage Results" MODIFIED="1572597402827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_035.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_035 Coverage Results" MODIFIED="1575527927675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_112.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_112 Coverage Results" MODIFIED="1587437649125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_039.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_039 Coverage Results" MODIFIED="1576581490123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_004.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_004 Coverage Results" MODIFIED="1587439069043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_005.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_005 Coverage Results" MODIFIED="1577093435148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_117.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_117 Coverage Results" MODIFIED="1576833128237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_075.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_075 Coverage Results" MODIFIED="1576662005150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_034.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_034 Coverage Results" MODIFIED="1577690092505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_098.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_098 Coverage Results" MODIFIED="1576744896611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_023.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_023 Coverage Results" MODIFIED="1577239971850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_016.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_016 Coverage Results" MODIFIED="1577261752637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_040.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_040 Coverage Results" MODIFIED="1576581494515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_057.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_057 Coverage Results" MODIFIED="1576654799741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_073.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_073 Coverage Results" MODIFIED="1576661132554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_033.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_033 Coverage Results" MODIFIED="1574652902570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_030.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_030 Coverage Results" MODIFIED="1575856460050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_107.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_107 Coverage Results" MODIFIED="1587106549058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_104.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_104 Coverage Results" MODIFIED="1583316695204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_091.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_091 Coverage Results" MODIFIED="1577175801488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_024.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_024 Coverage Results" MODIFIED="1576498354655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_009.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_009 Coverage Results" MODIFIED="1576489717407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_in_test_003_MarketBuy_py.coverage" NAME="Unittests in test_003_MarketBuy.py Coverage Results" MODIFIED="1586246176213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_001.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_001 Coverage Results" MODIFIED="1577241913614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_076.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_076 Coverage Results" MODIFIED="1579054002025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_001_login_TestLogin.coverage" NAME="Unittests for test_001_login.TestLogin Coverage Results" MODIFIED="1587347716346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_005.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_005 Coverage Results" MODIFIED="1585908148590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_030.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_030 Coverage Results" MODIFIED="1576555288247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_067.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_067 Coverage Results" MODIFIED="1576657627143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_103.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_103 Coverage Results" MODIFIED="1583476895321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_110.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_110 Coverage Results" MODIFIED="1576757860380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_007_WXB_App_TestCoursesBuy_test_012.coverage" NAME="Unittests for test_007_WXB_App.TestCoursesBuy.test_012 Coverage Results" MODIFIED="1577673638185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_060.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_060 Coverage Results" MODIFIED="1576655408436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestStudentHelp_test_002.coverage" NAME="Unittests for test_006_StudentHelp.TestStudentHelp.test_002 Coverage Results" MODIFIED="1587106895982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_037.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_037 Coverage Results" MODIFIED="1587347909791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_095.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_095 Coverage Results" MODIFIED="1576744230613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_002.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_002 Coverage Results" MODIFIED="1587439063402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_008.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_008 Coverage Results" MODIFIED="1577258173717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_003.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_003 Coverage Results" MODIFIED="1577104214859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_100.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_100 Coverage Results" MODIFIED="1583476874367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_078.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_078 Coverage Results" MODIFIED="1576835281783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_098.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_098 Coverage Results" MODIFIED="1577176030721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_038.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_038 Coverage Results" MODIFIED="1574675192822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_014.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_014 Coverage Results" MODIFIED="1577259301438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_007_WXB_App_TestCoursesBuy_test_004.coverage" NAME="Unittests for test_007_WXB_App.TestCoursesBuy.test_004 Coverage Results" MODIFIED="1577678691547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_102.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_102 Coverage Results" MODIFIED="1583316684787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_008.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_008 Coverage Results" MODIFIED="1577104287979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_022.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_022 Coverage Results" MODIFIED="1587435177205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_063.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_063 Coverage Results" MODIFIED="1583476732379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_027.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_027 Coverage Results" MODIFIED="1587439545637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_in_test_005_FaceTeach_py.coverage" NAME="Unittests in test_005_FaceTeach.py Coverage Results" MODIFIED="1581754901936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_019.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_019 Coverage Results" MODIFIED="1577263312667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_30.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_30 Coverage Results" MODIFIED="1573097033367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_068.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_068 Coverage Results" MODIFIED="1583476825045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_030.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_030 Coverage Results" MODIFIED="1577353075216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_007.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_007 Coverage Results" MODIFIED="1577103568413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_065.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_065 Coverage Results" MODIFIED="1583476766761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_059.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_059 Coverage Results" MODIFIED="1576655362704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_096.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_096 Coverage Results" MODIFIED="1576743314399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_019.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_019 Coverage Results" MODIFIED="1587435152555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_018.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_018 Coverage Results" MODIFIED="1577262957994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_016.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_016 Coverage Results" MODIFIED="1577179673381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_087.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_087 Coverage Results" MODIFIED="1576726980540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_001.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_001 Coverage Results" MODIFIED="1587439059474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_027.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_027 Coverage Results" MODIFIED="1577342190525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_009.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_009 Coverage Results" MODIFIED="1577258214543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_007_WXB_App_TestCoursesBuy_test_010.coverage" NAME="Unittests for test_007_WXB_App.TestCoursesBuy.test_010 Coverage Results" MODIFIED="1577686906745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_017.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_017 Coverage Results" MODIFIED="1576479243999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_071.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_071 Coverage Results" MODIFIED="1587348716397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_037.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_037 Coverage Results" MODIFIED="1575527961507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_026.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_026 Coverage Results" MODIFIED="1576500809968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_115.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_115 Coverage Results" MODIFIED="1576831797264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_028.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_028 Coverage Results" MODIFIED="1587439558835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_31.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_31 Coverage Results" MODIFIED="1573097856005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_007_WXB_App_TestCoursesBuy_test_006.coverage" NAME="Unittests for test_007_WXB_App.TestCoursesBuy.test_006 Coverage Results" MODIFIED="1577671986236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_093.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_093 Coverage Results" MODIFIED="1577175812226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_021.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_021 Coverage Results" MODIFIED="1577330211956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_001.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_001 Coverage Results" MODIFIED="1577083399295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_010.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_010 Coverage Results" MODIFIED="1577105577923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_012.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_012 Coverage Results" MODIFIED="1577258911875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_084.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_084 Coverage Results" MODIFIED="1575963335004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_086.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_086 Coverage Results" MODIFIED="1576726242459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_080.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_080 Coverage Results" MODIFIED="1576835290302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_100.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_100 Coverage Results" MODIFIED="1576745555016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_011.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_011 Coverage Results" MODIFIED="1577258799490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_106.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_106 Coverage Results" MODIFIED="1583316700280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_101.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_101 Coverage Results" MODIFIED="1583476886165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_066.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_066 Coverage Results" MODIFIED="1583476785481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_010.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_010 Coverage Results" MODIFIED="1587349423803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_068.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_068 Coverage Results" MODIFIED="1576657641868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_052.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_052 Coverage Results" MODIFIED="1576653549292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_031.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_031 Coverage Results" MODIFIED="1581670621125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_018.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_018 Coverage Results" MODIFIED="1587435148586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_045.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_045 Coverage Results" MODIFIED="1576640954741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_007_WXB_App_TestCoursesBuy_test_007.coverage" NAME="Unittests for test_007_WXB_App.TestCoursesBuy.test_007 Coverage Results" MODIFIED="1577671837502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_107.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_107 Coverage Results" MODIFIED="1576053261794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_011.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_011 Coverage Results" MODIFIED="1587349427927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_028.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_028 Coverage Results" MODIFIED="1577352365700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_017.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_017 Coverage Results" MODIFIED="1577179757143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_in_test_004_CoursesBuy_py.coverage" NAME="Unittests in test_004_CoursesBuy.py Coverage Results" MODIFIED="1587349775273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_119.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_119 Coverage Results" MODIFIED="1576834584563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_in_test_007_WXB_App_py.coverage" NAME="Unittests in test_007_WXB_App.py Coverage Results" MODIFIED="1581755035199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_097.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_097 Coverage Results" MODIFIED="1577176024453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_064.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_064 Coverage Results" MODIFIED="1576657084446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_088.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_088 Coverage Results" MODIFIED="1577175785297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_061.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_061 Coverage Results" MODIFIED="1576655461527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_027.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_027 Coverage Results" MODIFIED="1576555276465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestStudentHelp_test_006.coverage" NAME="Unittests for test_006_StudentHelp.TestStudentHelp.test_006 Coverage Results" MODIFIED="1587106965371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_021.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_021 Coverage Results" MODIFIED="1587435168099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_116.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_116 Coverage Results" MODIFIED="1576832458669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestStudentHelp_test_012.coverage" NAME="Unittests for test_006_StudentHelp.TestStudentHelp.test_012 Coverage Results" MODIFIED="1587107064737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_070.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_070 Coverage Results" MODIFIED="1587348711173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_055.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_055 Coverage Results" MODIFIED="1587348359552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_094.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_094 Coverage Results" MODIFIED="1577175815917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_012.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_012 Coverage Results" MODIFIED="1583476113353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_033.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_033 Coverage Results" MODIFIED="1587347785589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_049.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_049 Coverage Results" MODIFIED="1576651952006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_002.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_002 Coverage Results" MODIFIED="1581681012890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_058.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_058 Coverage Results" MODIFIED="1576654972705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_069.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_069 Coverage Results" MODIFIED="1583476838280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_in_test_006_StudentHelp_py.coverage" NAME="Unittests in test_006_StudentHelp.py Coverage Results" MODIFIED="1581754963492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_037.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_037 Coverage Results" MODIFIED="1577693160418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_103.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_103 Coverage Results" MODIFIED="1583316690394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_075.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_075 Coverage Results" MODIFIED="1579053993338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_077.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_077 Coverage Results" MODIFIED="1576662072012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_008.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_008 Coverage Results" MODIFIED="1587349418666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_104.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_104 Coverage Results" MODIFIED="1583476900728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_034.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_034 Coverage Results" MODIFIED="1575527921395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$xiaoeHeaders.coverage" NAME="xiaoeHeaders Coverage Results" MODIFIED="1577690328612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_040.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_040 Coverage Results" MODIFIED="1574683311148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestStudentHelp_test_025.coverage" NAME="Unittests for test_006_StudentHelp.TestStudentHelp.test_025 Coverage Results" MODIFIED="1587437559089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_083.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_083 Coverage Results" MODIFIED="1577946645060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_042.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_042 Coverage Results" MODIFIED="1586247901276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_014.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_014 Coverage Results" MODIFIED="1576489745063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_081.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_081 Coverage Results" MODIFIED="1575945290038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$xiaoe.coverage" NAME="xiaoe Coverage Results" MODIFIED="1587438831254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_015.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_015 Coverage Results" MODIFIED="1583476623932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestFaceTeach_test_003.coverage" NAME="Unittests for test_005_FaceTeach.TestFaceTeach.test_003 Coverage Results" MODIFIED="1587437157111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_020.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_020 Coverage Results" MODIFIED="1576489183413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_036.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_036 Coverage Results" MODIFIED="1587347904523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_009.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_009 Coverage Results" MODIFIED="1583475897591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_002.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_002 Coverage Results" MODIFIED="1577243698315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$test_001_login.coverage" NAME="test_001_login Coverage Results" MODIFIED="1579053830918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_062.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_062 Coverage Results" MODIFIED="1583476727316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_001.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_001 Coverage Results" MODIFIED="1581681007503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_033.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_033 Coverage Results" MODIFIED="1577690087434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_019.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_019 Coverage Results" MODIFIED="1577238428881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_041.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_041 Coverage Results" MODIFIED="1576835110466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_056.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_056 Coverage Results" MODIFIED="1576654695585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_099.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_099 Coverage Results" MODIFIED="1576746155416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_022.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_022 Coverage Results" MODIFIED="1577239750692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_016.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_016 Coverage Results" MODIFIED="1583476635825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_044.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_044 Coverage Results" MODIFIED="1575529610335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_118.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_118 Coverage Results" MODIFIED="1576833263677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_023.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_023 Coverage Results" MODIFIED="1576490045335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_015.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_015 Coverage Results" MODIFIED="1577259358873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_007_WXB_App_TestCoursesBuy_test_003.coverage" NAME="Unittests for test_007_WXB_App.TestCoursesBuy.test_003 Coverage Results" MODIFIED="1577678550089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_038.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_038 Coverage Results" MODIFIED="1587347914738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_004.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_004 Coverage Results" MODIFIED="1577092924213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestFaceTeach_test_002.coverage" NAME="Unittests for test_005_FaceTeach.TestFaceTeach.test_002 Coverage Results" MODIFIED="1587437152681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_092.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_092 Coverage Results" MODIFIED="1576739267395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$readExcel.coverage" NAME="readExcel Coverage Results" MODIFIED="1585906392720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_028.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_028 Coverage Results" MODIFIED="1581754844760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_in_test_004__CoursesBuy_py.coverage" NAME="Unittests in test_004_ CoursesBuy.py Coverage Results" MODIFIED="1576058167996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_005.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_005 Coverage Results" MODIFIED="1577245468912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_090.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_090 Coverage Results" MODIFIED="1577175797703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004__CoursesBuy_TestCoursesBuy_test_002.coverage" NAME="Unittests for test_004_ CoursesBuy.TestCoursesBuy.test_002 Coverage Results" MODIFIED="1576059027320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_006.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_006 Coverage Results" MODIFIED="1585908518152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_072.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_072 Coverage Results" MODIFIED="1579053969306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_005.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_005 Coverage Results" MODIFIED="1587627649120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_074.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_074 Coverage Results" MODIFIED="1576661956452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_046.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_046 Coverage Results" MODIFIED="1587348190914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_023.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_023 Coverage Results" MODIFIED="1577331084513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_051.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_051 Coverage Results" MODIFIED="1576653350315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_012.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_012 Coverage Results" MODIFIED="1577157359426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_095.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_095 Coverage Results" MODIFIED="1577175928601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_024.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_024 Coverage Results" MODIFIED="1587439491954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_111.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_111 Coverage Results" MODIFIED="1587437645153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_077.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_077 Coverage Results" MODIFIED="1579054007472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_076.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_076 Coverage Results" MODIFIED="1576662050211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_015.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_015 Coverage Results" MODIFIED="1576230150418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_018.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_018 Coverage Results" MODIFIED="1576500982502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_036.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_036 Coverage Results" MODIFIED="1575527935692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_082.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_082 Coverage Results" MODIFIED="1577946632042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_113.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_113 Coverage Results" MODIFIED="1587437652931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_085.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_085 Coverage Results" MODIFIED="1575964160580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestFaceTeach_test_004.coverage" NAME="Unittests for test_005_FaceTeach.TestFaceTeach.test_004 Coverage Results" MODIFIED="1587437161407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_097.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_097 Coverage Results" MODIFIED="1576743377127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_082.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_082 Coverage Results" MODIFIED="1575961753636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_021.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_021 Coverage Results" MODIFIED="1576488328031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_014.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_014 Coverage Results" MODIFIED="1583476602181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_038.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_038 Coverage Results" MODIFIED="1577693230802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_008.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_008 Coverage Results" MODIFIED="1583475843683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_020.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_020 Coverage Results" MODIFIED="1577239263044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_087.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_087 Coverage Results" MODIFIED="1575965279428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_054.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_054 Coverage Results" MODIFIED="1587348353665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_011.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_011 Coverage Results" MODIFIED="1585908255887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_003.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_003 Coverage Results" MODIFIED="1581681025887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_020.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_020 Coverage Results" MODIFIED="1577266250903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_025.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_025 Coverage Results" MODIFIED="1577331937908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_079.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_079 Coverage Results" MODIFIED="1579054026619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_007.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_007 Coverage Results" MODIFIED="1576463320754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestStudentHelp_test_007.coverage" NAME="Unittests for test_006_StudentHelp.TestStudentHelp.test_007 Coverage Results" MODIFIED="1587106988028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_043.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_043 Coverage Results" MODIFIED="1586247932295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_013.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_013 Coverage Results" MODIFIED="1587349155448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_084.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_084 Coverage Results" MODIFIED="1576835321745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_080.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_080 Coverage Results" MODIFIED="1575944729342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_014.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_014 Coverage Results" MODIFIED="1577158687325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_048.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_048 Coverage Results" MODIFIED="1576651797948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_031.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_031 Coverage Results" MODIFIED="1577353252157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_090.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_090 Coverage Results" MODIFIED="1576737745948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_074.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_074 Coverage Results" MODIFIED="1583423226048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_089.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_089 Coverage Results" MODIFIED="1576728185652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_044.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_044 Coverage Results" MODIFIED="1576642170764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_036.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_036 Coverage Results" MODIFIED="1577693224644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1577763036578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_004.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_004 Coverage Results" MODIFIED="1581681042682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_102.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_102 Coverage Results" MODIFIED="1583476890617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_013.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_013 Coverage Results" MODIFIED="1583476581681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_041.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_041 Coverage Results" MODIFIED="1574825600106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_062.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_062 Coverage Results" MODIFIED="1587348440986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$public.coverage" NAME="public Coverage Results" MODIFIED="1585117034737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_007_WXB_App_TestCoursesBuy_test_001.coverage" NAME="Unittests for test_007_WXB_App.TestCoursesBuy.test_001 Coverage Results" MODIFIED="1577672011935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_099.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_099 Coverage Results" MODIFIED="1583476868476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_053.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_053 Coverage Results" MODIFIED="1576653738350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_032.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_032 Coverage Results" MODIFIED="1581670642963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_035.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_035 Coverage Results" MODIFIED="1587347899904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_003.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_003 Coverage Results" MODIFIED="1577244523008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_023.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_023 Coverage Results" MODIFIED="1587439485996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_017.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_017 Coverage Results" MODIFIED="1577262408130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_063.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_063 Coverage Results" MODIFIED="1587348642757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_034.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_034 Coverage Results" MODIFIED="1587347888506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_069.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_069 Coverage Results" MODIFIED="1576657654414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestStudentHelp_test_011.coverage" NAME="Unittests for test_006_StudentHelp.TestStudentHelp.test_011 Coverage Results" MODIFIED="1587107059572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_32.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_32 Coverage Results" MODIFIED="1573098360937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_006.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_006 Coverage Results" MODIFIED="1577102899920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_029.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_029 Coverage Results" MODIFIED="1575856115389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_022.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_022 Coverage Results" MODIFIED="1577330624031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_081.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_081 Coverage Results" MODIFIED="1576835293481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_089.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_089 Coverage Results" MODIFIED="1577175789945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_105.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_105 Coverage Results" MODIFIED="1576749572268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_in_test_002_ServerBuy_py.coverage" NAME="Unittests in test_002_ServerBuy.py Coverage Results" MODIFIED="1587106454522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_011.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_011 Coverage Results" MODIFIED="1577105978497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_083.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_083 Coverage Results" MODIFIED="1575962980498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_016.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_016 Coverage Results" MODIFIED="1576478076904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_007_WXB_App_TestCoursesBuy_test_002.coverage" NAME="Unittests for test_007_WXB_App.TestCoursesBuy.test_002 Coverage Results" MODIFIED="1577677987394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_079.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_079 Coverage Results" MODIFIED="1576835286508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_039.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_039 Coverage Results" MODIFIED="1574675209036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_012.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_012 Coverage Results" MODIFIED="1587349431900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_004.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_004 Coverage Results" MODIFIED="1577245206618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_007.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_007 Coverage Results" MODIFIED="1577257926832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestFaceTeach_test_001.coverage" NAME="Unittests for test_005_FaceTeach.TestFaceTeach.test_001 Coverage Results" MODIFIED="1587437141169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_007_WXB_App_TestCoursesBuy_test_005.coverage" NAME="Unittests for test_007_WXB_App.TestCoursesBuy.test_005 Coverage Results" MODIFIED="1577678774049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_010.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_010 Coverage Results" MODIFIED="1577258240147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_007_WXB_App_TestCoursesBuy_test_008.coverage" NAME="Unittests for test_007_WXB_App.TestCoursesBuy.test_008 Coverage Results" MODIFIED="1577671857740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_021.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_021 Coverage Results" MODIFIED="1577239481670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_070.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_070 Coverage Results" MODIFIED="1583476855006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_018.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_018 Coverage Results" MODIFIED="1577179969165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_073.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_073 Coverage Results" MODIFIED="1579053977884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_035.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_035 Coverage Results" MODIFIED="1577690096197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_091.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_091 Coverage Results" MODIFIED="1576739828734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_032.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_032 Coverage Results" MODIFIED="1577690073908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_024.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_024 Coverage Results" MODIFIED="1577240060374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_015.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_015 Coverage Results" MODIFIED="1577179323618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_067.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_067 Coverage Results" MODIFIED="1576054689938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_003.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_003 Coverage Results" MODIFIED="1587439066379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_106.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_106 Coverage Results" MODIFIED="1576052987862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_088.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_088 Coverage Results" MODIFIED="1576727458097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_009.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_009 Coverage Results" MODIFIED="1577104786803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_064.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_064 Coverage Results" MODIFIED="1583476740802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_006.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_006 Coverage Results" MODIFIED="1587627666377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004__CoursesBuy_TestCoursesBuy_test_001.coverage" NAME="Unittests for test_004_ CoursesBuy.TestCoursesBuy.test_001 Coverage Results" MODIFIED="1576059061761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_101.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_101 Coverage Results" MODIFIED="1576746180265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_094.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_094 Coverage Results" MODIFIED="1576743291272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_029.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_029 Coverage Results" MODIFIED="1577352776427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_085.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_085 Coverage Results" MODIFIED="1576725406039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_120.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_120 Coverage Results" MODIFIED="1576834780818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_026.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_026 Coverage Results" MODIFIED="1577332394132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_026.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_026 Coverage Results" MODIFIED="1587439512227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$myEmail.coverage" NAME="myEmail Coverage Results" MODIFIED="1577698161464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_005_FaceTeach_TestCoursesBuy_test_002.coverage" NAME="Unittests for test_005_FaceTeach.TestCoursesBuy.test_002 Coverage Results" MODIFIED="1577090749895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_in_test_001_login_py.coverage" NAME="Unittests in test_001_login.py Coverage Results" MODIFIED="1587439054600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_108.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_108 Coverage Results" MODIFIED="1583316730421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_086.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_086 Coverage Results" MODIFIED="1575964756978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestCoursesBuy_test_013.coverage" NAME="Unittests for test_006_StudentHelp.TestCoursesBuy.test_013 Coverage Results" MODIFIED="1577259265011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_007_WXB_App_TestCoursesBuy_test_011.coverage" NAME="Unittests for test_007_WXB_App.TestCoursesBuy.test_011 Coverage Results" MODIFIED="1577686951094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_114.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_114 Coverage Results" MODIFIED="1587438841911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_019.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_019 Coverage Results" MODIFIED="1576483627335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_045.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_045 Coverage Results" MODIFIED="1575529634744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_006_StudentHelp_TestStudentHelp_test_001.coverage" NAME="Unittests for test_006_StudentHelp.TestStudentHelp.test_001 Coverage Results" MODIFIED="1587106583265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_066.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_066 Coverage Results" MODIFIED="1576657366930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_031.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_031 Coverage Results" MODIFIED="1576555292296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_025.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_025 Coverage Results" MODIFIED="1576555270813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_092.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_092 Coverage Results" MODIFIED="1577175808194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_004_CoursesBuy_TestCoursesBuy_test_072.coverage" NAME="Unittests for test_004_CoursesBuy.TestCoursesBuy.test_072 Coverage Results" MODIFIED="1576660890900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/XiaoePayall$Unittests_for_test_003_MarketBuy_TestMarketBuy_test_010.coverage" NAME="Unittests for test_003_MarketBuy.TestMarketBuy.test_010 Coverage Results" MODIFIED="1583475912888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+  </component>
+</project>

@@ -1,0 +1,2 @@
+2020-04-17 14:56:25,565 - TestLog - INFO - ---新建日历打卡---，Method：post
+2020-04-17 14:56:25,565 - TestLog - INFO - result：{'code': 0, 'msg': 'ok!', 'data': {'activity_id': 'ac_5e99531814e6f_PeV5yZzK'}}

@@ -1,0 +1,2 @@
+2020-04-17 15:02:46,864 - TestLog - INFO - ---新建作业打卡---，Method：post
+2020-04-17 15:02:46,864 - TestLog - INFO - result：{'code': 0, 'msg': 'ok!', 'data': {'activity_id': 'ac_5e995495c10dc_3vsbcMJ9', 'work_id': ['w_5e995495d7d75_6I2qF630']}}

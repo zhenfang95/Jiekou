@@ -1,0 +1,2 @@
+2020-04-17 15:04:20,942 - TestLog - INFO - ---新建闯关打卡---，Method：post
+2020-04-17 15:04:20,942 - TestLog - INFO - result：{'code': 0, 'msg': 'ok!', 'data': {'activity_id': 'ac_5e9954f3d0351_828DJxZN', 'class_hour_id': ['pa_5e9954f3ea2a1_QrD7xrV0']}}

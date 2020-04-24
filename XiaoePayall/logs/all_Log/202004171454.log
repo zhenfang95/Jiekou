@@ -1,0 +1,16 @@
+2020-04-17 14:54:01,640 - TestLog - INFO - ---登录系统---，Method：post
+2020-04-17 14:54:01,640 - TestLog - INFO - result：{'code': 0, 'data': [], 'msg': 'success'}
+2020-04-17 14:54:02,951 - TestLog - INFO - ---选择店铺---，Method：get
+2020-04-17 14:54:02,952 - TestLog - INFO - result：{'code': 0, 'msg': '登录成功', '0': {'data': {'shop_id': 'apprnDA0ZDw4581', 'wx_app_id': 'wxdd198a901fa24220', 'wx_app_name': '准线网测试', 'wx_app_avatar': None, 'qr_url': '', 'use_collection': 0, 'version_type': 4, 'expire_time': '2026-11-07 22:44:32', 'pre_version': 0, 'merchant_id': 'mchngG9rZe4cCV2', 'shop_name': '准现网😈', 'shop_logo': 'http://wechatapppro-1252524126.file.myqcloud.com/apprnDA0ZDw4581/image/k8fukaz40qfe6zeaa48.jpg', 'main_type': None, 'use_https': 0, 'footer_logo': '', 'profile': None, 'wx_app_type': 1, 'create_time': '2016-10-24 16:06:41', 'app_id': 'apprnDA0ZDw4581'}}}
+2020-04-17 14:54:15,575 - TestLog - INFO - ---创建B端版本服务支付订单---，Method：post
+2020-04-17 14:54:15,575 - TestLog - INFO - result：{'code': 0, 'msg': '生成订单成功', 'data': {'order_id': '202004171454XYfRDWij', 'price': 1999900, 'order_state': -1, 'qrcode_url': 'https://admin.xiaoe-tech.com/pay_page/mobile_pay?app_id=apprnDA0ZDw4581&order_id=202004171454XYfRDWij&url_app_id=apprnDA0ZDw4581', 'coin_error_data': []}}
+2020-04-17 14:54:16,601 - TestLog - INFO - ---H5购买店铺版本调起支付---，Method：get
+2020-04-17 14:54:16,601 - TestLog - INFO - result：{'code': 0, 'data': {'payConfig': {'appId': 'wxcac9950395da04f5', 'timeStamp': '1587106455', 'nonceStr': '5e9952979ed81', 'package': 'prepay_id=wx17145415610095cf72e182871425843100', 'signType': 'MD5', 'paySign': '64A61E4A5564AE776978678AC9308C62'}}, 'msg': '支付成功'}
+2020-04-17 14:54:17,257 - TestLog - INFO - ---取消店铺版本服务订购订单---，Method：post
+2020-04-17 14:54:17,257 - TestLog - INFO - result：{'code': 0, 'msg': '取消订单成功', 'data': {'order_id': '202004171454XYfRDWij', 'app_id': 'apprnDA0ZDw4581'}}
+2020-04-17 14:54:17,964 - TestLog - INFO - ---创建B端增值服务支付订单---，Method：post
+2020-04-17 14:54:17,964 - TestLog - INFO - result：{'code': 0, 'msg': '生成订单成功', 'data': {'order_id': '202004171454eHGyrgVW', 'price': 58800, 'order_state': -1, 'qrcode_url': 'https://admin.xiaoe-tech.com/pay_page/mobile_pay?app_id=apprnDA0ZDw4581&order_id=202004171454eHGyrgVW&url_app_id=apprnDA0ZDw4581', 'coin_error_data': []}}
+2020-04-17 14:54:18,920 - TestLog - INFO - ---H5购买增值服务调起支付---，Method：get
+2020-04-17 14:54:18,920 - TestLog - INFO - result：{'code': 0, 'data': {'payConfig': {'appId': 'wxcac9950395da04f5', 'timeStamp': '1587106458', 'nonceStr': '5e99529a04558', 'package': 'prepay_id=wx171454179898353737d214cb1506382400', 'signType': 'MD5', 'paySign': 'A9ACE676CDD6BF38FE4606AE20235B39'}}, 'msg': '支付成功'}
+2020-04-17 14:54:19,627 - TestLog - INFO - ---取消功能服务订购订单---，Method：post
+2020-04-17 14:54:19,627 - TestLog - INFO - result：{'code': 0, 'msg': '取消订单成功', 'data': {'order_id': '202004171454eHGyrgVW', 'app_id': 'apprnDA0ZDw4581'}}

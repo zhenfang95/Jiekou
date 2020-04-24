@@ -1,0 +1,4 @@
+2020-02-14 16:02:04,907 - TestLog - INFO - ---登录系统---，请求方式：post
+2020-02-14 16:02:04,908 - TestLog - INFO - result：{'code': 0, 'data': [], 'msg': 'success'}
+2020-02-14 16:02:06,514 - TestLog - INFO - ---选择店铺---，请求方式：get
+2020-02-14 16:02:06,514 - TestLog - INFO - result：{'code': 0, 'msg': '登录成功'}

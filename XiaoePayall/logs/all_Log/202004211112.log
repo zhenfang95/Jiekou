@@ -1,0 +1,4 @@
+2020-04-21 11:12:15,004 - TestLog - INFO - ---获取训练营营期列表---，Method：get
+2020-04-21 11:12:15,005 - TestLog - INFO - result：{'code': 0, 'msg': 'success', 'data': {'total': 0, 'terms': [], 'term_total': 0}}
+2020-04-21 11:12:40,033 - TestLog - INFO - ---获取训练营营期列表---，Method：get
+2020-04-21 11:12:40,034 - TestLog - INFO - result：{'code': 7, 'msg': '训练营id为空', 'data': []}
