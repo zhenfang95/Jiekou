@@ -1,0 +1,2 @@
+[32mINFO    [0m TestLog:method.py:55 ---购买图文优惠券支付---，Method：post
+[32mINFO    [0m TestLog:test_004_CoursesBuy.py:60 result：{'code': 10050, 'msg': '该券已被使用', 'data': []}

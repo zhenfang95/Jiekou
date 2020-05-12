@@ -1,0 +1,2 @@
+[32mINFO    [0m TestLog:method.py:27 ---创建裂变海报---，Method：post
+[32mINFO    [0m TestLog:test_003_MarketBuy.py:40 result：{'code': 0, 'msg': '创建成功', 'data': {'activity_id': 'ma_fp_5eba6dbc37265_PMqdao6c'}}

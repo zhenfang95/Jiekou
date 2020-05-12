@@ -1,0 +1,2 @@
+[32mINFO    [0m TestLog:method.py:55 ---购买裂变海报批价下单---，Method：post
+[32mINFO    [0m TestLog:test_003_MarketBuy.py:48 result：PASS--响应数据过多，结果暂不打印

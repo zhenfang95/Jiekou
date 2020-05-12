@@ -1,0 +1,2 @@
+[32mINFO    [0m TestLog:method.py:27 ---B端新建图文---，Method：post
+[32mINFO    [0m TestLog:test_004_CoursesBuy.py:27 result：{'code': 0, 'msg': '操作成功', 'data': {'resource_id': 'i_5eba6dc46947e_sTxAiGz2', 'resource_type': 1}}

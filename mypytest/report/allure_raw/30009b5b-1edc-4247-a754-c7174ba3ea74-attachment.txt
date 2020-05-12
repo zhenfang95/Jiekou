@@ -1,0 +1,2 @@
+[32mINFO    [0m TestLog:method.py:27 ---登录系统---，Method：post
+[32mINFO    [0m TestLog:test_001_login.py:23 result：{'code': 0, 'data': [], 'msg': 'success'}

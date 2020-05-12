@@ -1,0 +1,2 @@
+[32mINFO    [0m TestLog:method.py:55 ---购买裂变海报批价下单支付---，Method：post
+[32mINFO    [0m TestLog:test_003_MarketBuy.py:53 result：{'code': 0, 'msg': '跳转企业模式链接支付', 'data': {'need_jump': 1, 'pay_url': 'https://wxdd198a901fa24220.h5.xiaoe-tech.com/content_page/payCode_5hKcHdatARiOir8A?app_id=apprnDA0ZDw4581'}}

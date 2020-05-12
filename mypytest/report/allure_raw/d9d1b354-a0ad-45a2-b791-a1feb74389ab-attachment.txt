@@ -1,0 +1,1 @@
+[32mINFO    [0m TestLog:method.py:27 ---新建Pay_裂变海报图文---，Method：post

@@ -1,0 +1,2 @@
+[32mINFO    [0m TestLog:method.py:55 ---购买图文优惠券支付---，Method：post
+[32mINFO    [0m TestLog:test_004_CoursesBuy.py:61 result：{'code': 0, 'msg': '', 'data': {'pay_state': 'SUCCESS', 'team_buy_task_id': 't_5eba6dcea41d9_Ksymptte', 'order_id': 'o_1589276110_5eba6dceca3fc_09974261'}}

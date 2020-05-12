@@ -1,0 +1,1 @@
+[32mINFO    [0m TestLog:method.py:27 ---B端新建图文---，Method：post
