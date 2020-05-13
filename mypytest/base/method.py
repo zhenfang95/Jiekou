@@ -110,5 +110,5 @@ class IsContent:
 
 
 
-#执行：pytest -alluredir ./report/allure_raw
-#打开报告：allure serve /report/allure_raw
+#执行：pytest --alluredir ./report/allure_raw
+#打开报告：allure serve report\allure_raw

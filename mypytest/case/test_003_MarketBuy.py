@@ -28,7 +28,6 @@ class TestMarketBuy:
         '''获取图文列表'''
         time.sleep(3)
         r = self.obj.web_get(row=4,params=self.jsda.getRequestsData(4),headers=getHeadersInfo())
-        print(r.text)
         #mylog.info('result：%s' % r.json())
         self.isContent(r,4)
         writeDataYaml(key1='resource_id',vlue1=r.json()['data']['resourceList'][0]['id'])
@@ -44,7 +43,7 @@ class TestMarketBuy:
         '''购买裂变海报批价下单'''
         time.sleep(5)
         r = self.obj.h5_post(row=6,data=setShopFission(),headers=getHeadersInfo_H5())
-        self.isContent(r,6)
+        self.isContent(r,699)
         mylog.info('result：PASS--响应数据过多，结果暂不打印')
 
     def test_005(self):
