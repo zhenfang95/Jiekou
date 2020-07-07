@@ -24,7 +24,8 @@ class Method:
 				data=data,
 				headers=headers,
 				verify=False)
-			mylog.info('---%s---，Method：post' %(self.excel.getCaseName(row)))
+			mylog.info('---%s---，Method：POST' %(self.excel.getCaseName(row)))
+			mylog.info('required：%s'%r.request.body)
 			return r
 		except Exception as e:
 			mylog.erro('接口%s请求错误,%s'%(self.excel.getCaseName(row),e))
@@ -38,7 +39,8 @@ class Method:
 						params=params,
 						headers=headers,
 						verify=False)
-			mylog.info('---%s---，Method：get' %(self.excel.getCaseName(row)))
+			mylog.info('---%s---，Method：GET' %(self.excel.getCaseName(row)))
+			mylog.info('required：%s' % r.request.body)
 			return r
 		except Exception as e:
 			mylog.erro('接口%s请求错误,%s'%(self.excel.getCaseName(row),e))
@@ -52,7 +54,8 @@ class Method:
 				data=data,
 				headers=headers,
 				verify=False)
-			mylog.info('---%s---，Method：post' %(self.excel.getCaseName(row)))
+			mylog.info('---%s---，Method：POST' %(self.excel.getCaseName(row)))
+			mylog.info('required：%s' % r.request.body)
 			return r
 		except Exception as e:
 			mylog.erro('接口%s请求错误,%s'%(self.excel.getCaseName(row),e))
@@ -66,7 +69,8 @@ class Method:
 						params=params,
 						headers=headers,
 						verify=False)
-			mylog.info('---%s---，Method：get' %(self.excel.getCaseName(row)))
+			mylog.info('---%s---，Method：GET' %(self.excel.getCaseName(row)))
+			mylog.info('required：%s' % r.request.body)
 			return r
 		except Exception as e:
 			mylog.erro('接口%s请求错误,%s'%(self.excel.getCaseName(row),e))
@@ -80,7 +84,8 @@ class Method:
 				data=eval(data),
 				headers=headers,
 				verify=False)
-			mylog.info('---%s---，Method：post' %(self.excel.getCaseName(row)))
+			mylog.info('---%s---，Method：POST' %(self.excel.getCaseName(row)))
+			mylog.info('required：%s' % r.request.body)
 			return r
 		elif method == 'get':
 			r=requests.get(
@@ -88,7 +93,8 @@ class Method:
 				params=eval(params),
 				headers=headers,
 				verify=False)
-			mylog.info('---%s---，Method：get' %(self.excel.getCaseName(row)))
+			mylog.info('---%s---，Method：GET' %(self.excel.getCaseName(row)))
+			mylog.info('required：%s' % r.request.body)
 			return r
 		else:
 			pass
