@@ -1,0 +1,4 @@
+[32mINFO    [0m Tng_ts:test_001_EPS.py:25 执行测试用例[appId错误],url=http://192.168.1.62:9190/transaction/deCard/getPublicKey
+[32mINFO    [0m Tng_ts:test_001_EPS.py:28 请求值:[{"version": "2.0", "charset": "UTF-8", "messageId": "02dxxadwf3f3a29674e674e6", "guestId": "10645", "appId": "", "signType": "RSA2", "reqTime": "1594724073000", "keyType": "0", "sign": "QdlGgxIYCwGOhTGjUHYM1FO3YsbtepNfpxGleB/VqdAB61ir9k5RnRoZ67RMRbPZFHLGVGM6/aqEaHLV2cvZ9jbhz4vfpPYo6QOtmRCzW2dU/WUHb9FCENu//2o28w9l6/Yzbn6QAxjRsRPDoYPZs7WBF1C8RrUIhuoEfxn4gPw="}]
+[32mINFO    [0m Tng_ts:test_001_EPS.py:30 返回值:[{'code': 100001, 'msg': 'Invalid appId', 'resTime': '1611914703182', 'data': None}]
+[32mINFO    [0m Tng_ts:test_001_EPS.py:32 Result: PASS，文本检查点："msg":"Invalid appId"

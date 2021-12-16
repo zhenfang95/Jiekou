@@ -1,0 +1,4 @@
+[32mINFO    [0m Tng_ts:test_001_EPS.py:25 执行测试用例[signType格式错误],url=http://192.168.1.62:9190/transaction/deCard/getPublicKey
+[32mINFO    [0m Tng_ts:test_001_EPS.py:28 请求值:[{"version": "2.0", "charset": "UTF-8", "messageId": "02dxxadwf3f3a29674e674e6", "guestId": "10645", "appId": "10103", "signType": "\u54c8\u54c8\u54c8", "reqTime": "1594724073000", "keyType": "0", "sign": "MIMuVNVDSXbinS4nwLSGG23wvRDLm4Fy1Ry9pQY2H0VoBDoXyHrOjF2f8P8jYLwiKGASDlYH6JZ6QK+VL2/DRZMUFM3ZXkNrTIUmYBhA0QP3mRvOLIGyeftsH+xwmjlQ8YBFXJGuHhzwzoO6DQA5UlzMmSC1l1DSa9utMGRsHGU="}]
+[32mINFO    [0m Tng_ts:test_001_EPS.py:30 返回值:[{'code': 100001, 'msg': 'Illegal parameter : signType fixed RSA2', 'resTime': '1611914703281', 'data': None}]
+[32mINFO    [0m Tng_ts:test_001_EPS.py:32 Result: PASS，文本检查点："msg":"Illegal parameter : signType fixed RSA2"

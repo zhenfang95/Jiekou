@@ -1,0 +1,51 @@
+pydata:   #存放静态参数
+
+  #10645商户对应私钥
+  rsa_private_key: MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAL6qwXEI5tKPjXOQNUl/cchAWvnXITYOP3ley3PBsXKHdFIA6e6b7NgLWE5zvM9BqE0FC4I7I7oeGxz6vPpN8sqpKp22mgarTabY1/nh9tlIKU6BaLaOJXWdQbN30oVSjiz/b/VQmZDg3utOEPU8VMyeBmMjzJQ4yOiXfg0hHsOxAgMBAAECgYA2dlALGZ/VRWwCNo8CD4VQzhEujGTQLAG1iX5T8l/ddxOi2N/5aFCe5Z6zyhuEmBya43YGHR53a2ITRQv1844GFiuI24xiFgtKVlYIEI8cANJah7ubXJ5g+kHuXGO9pRJ2nLoNggOUPyvUUFmlbB2ZQ4x4HvIOX9Ftc+yKdGzwgQJBAP0C8vX6VLVGDMM0rMj/eVtaZMCikByl7iv1c+ifEfMQuX2bcAEm8LL2jd6DZcgLr+zg1RiWIbrlMkRXQ5AEZw8CQQDA60phz205PPwWEgmdro9oBF1csmpg9GcpDY158sQ1snXs0OFC9gp67OmFrhVIe80IJu1JNrPjasBRC62L+Ck/AkA656bdMczq70YlZGwd16zPYfo3ByH6KX+L6Hd13yL0rh4hakDnY8OCRvi8p2bY7i+lPKsgMEPmGVpcotxt+ThtAkAULQdcb1sW71/V1xEWYpkw4bP569bgSO85BefT5yXKD93xZG8Kl7zE2l4Z0vj62ae5wIh0bbomgJWYZEZEKzH1AkEAlAYEEwoOKqGerHHacPLB0Y1oEKM7OLzDYHzJXxzYRr1jds9jr4UdquakMDubeofTpbfbcO4BimvtZgCBxEoQ2A==
+  #FCS行程交易订单获取接口
+  FCS_txnGet_url: http://192.168.1.62:9190/citybus/order/txnGet
+  requestData_txnGet: {"charset": "UTF-8","appId": "10103","sign": "1232131111","messageId": "02dxxadwf3f3a29674e674e6","signType": "RSA2","reqTime": "1590403148703","guestId": "10645","version": "2.0","traceNum": 1,"numPassId":9999}
+
+  #FCS设置行程订单金额接口
+  FCS_setFare_url: http://192.168.1.62:9190/citybus/order/setFare
+  requestData_setFare: {"charset": "UTF-8","txnList":[{"busFare": 100,"calTime": "00200811-181512","fareType": "Normal","txnId": "12323","originalTxnId": ""}],"traceNum": "1","appId": "10103","sign": "0ce2d036cec5753a0ef02637b3a062b938e97f2c3ff07ff6ce6e752f1ab8abcf","messageId": "02dxxadwf3f3a29674e674e6","signType": "RSA2","reqTime": "1590403705130","guestId": "10645","version": "2.0","numTxn": "100"}
+
+  #FCS票价调整接口
+  FCS_adjustFare_url: http://192.168.1.62:9190/citybus/order/adjustFare
+  requestData_adjustFare: {"charset": "UTF-8","txnList": [{"adjustTxnId": "123456789","txnAmt": 30,"txnId": " 4604026545550417960"}],"traceNum": "1","appId": "10103","sign": "e8qaJX2wXtusnNe","messageId": "02dxxadwf3f3a29674e674e6","signType": "RSA2","reqTime": "1590403586164","guestId": "10645","version": "2.0","numTxn": "10" }
+
+  #FCS日结数据查询接口
+  FCS_settlementSummary_url: http://192.168.1.62:9190/citybus/settle/settlementSummary
+  requestData_settlementSummary: {"version": "2.0","charset": "UTF-8","messageId": "02dxxadwf3f3a29674e674e6","guestId": "10645","appId": "10103","signType": "RSA2","sign": "0ce2d036cec5753a0ef02637b3a062b938e97f2c3ff07ff6ce6e752f1ab8abcf","reqTime": "2020043011212","beginTime": "20200824-121212","endTime": "20200825-231212","deviceId": "00012700202007000011","pspId": "2"}
+
+  #FCS设备事件日志查询接口
+  FCS_eventsLog_url: http://192.168.1.62:9190/citybus/device/eventsLog
+  requestData_eventsLog: {"version": "2.0","charset": "UTF-8","messageId": "02dxxadwf3f3a29674e674e6","guestId": "10645","appId": "10103","signType": "RSA2","sign": "0ce2d036cec5753a0ef02637b3a062b938e97f2c3ff07ff6ce6e752f1ab8abcf","reqTime": "202007280112","beginTime": "20200823-012311","endTime": "20200825-175054","logId":"005","logType":2,"pageNum":1,"pageSize":10,"deviceId": "00012700202007000011"}
+
+  #城巴AR数据下载
+  CB_arData_url: http://192.168.1.62:9190/citybus/download/arData
+  requestData_arData: {"version": "2.0","charset": "UTF-8","messageId": "02dxxadwf3f3a29674e674e6","guestId": "10645","appId": "10103","signType": "RSA2","sign": "0ce2d036cec5753a0ef02637b3a062b938e97f2c3ff07ff6ce6e752f1ab8abcf","reqTime": "202004321212","deviceId": "00012700202007000011","beginTime":"2020082301","endTime":"2020082523"}
+
+  #城巴交易数据下载
+  CB_txnDownload_url: http://192.168.1.62:9190/citybus/order/txnDownload
+  requestData_txnDownload: {"version": "2.0","charset": "UTF-8","messageId": "02dxxadwf3f3a29674e674e6","guestId": "10645","appId": "10103","signType": "RSA2","sign": "0ce2d036cec5753a0ef02637b3a062b938e97f2c3ff07ff6ce6e752f1ab8abcf","reqTime": "2020043011212","beginTime": "20200901-011212","endTime": "20200911-231212","timeType": "2","status": "4","pspId": "2","deviceId": "00012700202007000011","settleStatus": 1,"pageNum":1,"pageSize":10}
+
+  #城巴订单退款
+  CB_refund_url: http://192.168.1.62:9190/citybus/order/refund
+  requestData_refund: {"version": "2.0","charset": "UTF-8","messageId": "02dxxadwf3f3a29674e674e6","guestId": "10645","appId": "10103","signType": "RSA2","sign": "0ce2d036cec5753a0ef02637b3a062b938e97f2c3ff07ff6ce6e752f1ab8abcf","reqTime": 20200803,"rtxnId": "123","txnId": "123","refundAmt":10,"remark": "testtng"}
+
+  #EPS获取乘车码公钥
+  EPS_getPublicKey_url: http://192.168.1.62:9190/transaction/deCard/getPublicKey
+  requestData_getPublicKey: {"version": "2.0","charset": "UTF-8","messageId": "02dxxadwf3f3a29674e674e6","guestId": "10645","appId": "10103","signType": "RSA2","sign": "0ce2d036cec5753a0ef02637b3a062b938e97f2c3ff07ff6ce6e752f1ab8abcf","reqTime": "1594724073000","keyType":"0"}
+
+  #EPS获取CAPK和AID数据查询
+  EPS_getTapCardKey_url: http://192.168.1.62:9190/transaction/deCard/getTapCardKey
+  requestData_getTapCardKey: {"version": "2.0","charset": "UTF-8","messageId": "02dxxadwf3f3a29674e674e6","guestId": "10645","appId": "10103","signType": "RSA2","sign": "0ce2d036cec5753a0ef02637b3a062b938e97f2c3ff07ff6ce6e752f1ab8abcf","reqTime": "202000121212"}
+
+  #EPS-AR汇总数据上传
+  EPS_arSummaryUpload_url: http://192.168.1.62:9190/transaction/deCard/arSummaryUpload
+  requestData_arSummaryUpload: {"charset": "UTF-8","messageId": "02dxxadwf3f3a29674e674e6","guestId": "10645","appId": "10103","signType": "RSA2","sign": "0ce2d036cec5753a0ef02637b3a062b938e97f2c3ff07ff6ce6e752f1ab8abcf","reqTime": "1595233466000","deviceId": "test1111","time": "2","date": "20200818","busNum":"Auto133","advanceAmt":1000,"transactionNum": "1","totalEvent": "1"}
+
+  #EPS设备事件日志上传
+  EPS_eventLogs_url: http://192.168.1.62:9190/transaction/deCard/eventLogs
+  requestData_eventLogs: {"version": "2.0","charset": "UTF-8","messageId": "02dxxadwf3f3a29674e674e6","guestId": "10645","appId": "10103","signType": "RSA2","sign": "0ce2d036cec5753a0ef02637b3a062b938e97f2c3ff07ff6ce6e752f1ab8abcf","reqTime": "2020043011212","logCounts":1,"logsList": [{"deviceId":"auto111","logId": "001","logType": "1","logTime": "20200811-121212","remark": "test111"}]}
